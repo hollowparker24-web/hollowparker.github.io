@@ -3,40 +3,35 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mi Portafolio - TU NOMBRE</title>
+  <title>Keylis Alvarez | Portafolio</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
-    <h1>👋 Hola, soy TU NOMBRE</h1>
-    <p>Desarrollador / Ingeniero / Profesional en [tu área]</p>
+    <h1>Keylis Alvarez</h1>
+    <p>Estudiante de Ingeniería de Sistemas</p>
   </header>
 
-  <section id="about">
+  <section class="about">
     <h2>Sobre mí</h2>
-    <p>Soy una persona apasionada por la tecnología, con experiencia en [tu especialidad]. Me gusta crear soluciones que ayuden a las personas.</p>
+    <p>
+      Soy una estudiante de Ingeniería de Sistemas apasionada por la tecnología, el desarrollo de software y la innovación digital. 
+      Me caracterizo por mi curiosidad constante, mi capacidad de adaptación y mi enfoque en resolver problemas mediante soluciones creativas y eficientes. 
+      Busco seguir creciendo profesionalmente, aprendiendo nuevas herramientas y contribuyendo con proyectos que generen impacto positivo.
+    </p>
   </section>
 
-  <section id="projects">
-    <h2>Proyectos</h2>
-    <div class="project">
-      <h3>Proyecto 1</h3>
-      <p>Descripción corta del proyecto.</p>
-    </div>
-    <div class="project">
-      <h3>Proyecto 2</h3>
-      <p>Descripción corta del proyecto.</p>
-    </div>
-  </section>
-
-  <section id="contact">
+  <section class="contact">
     <h2>Contacto</h2>
-    <p>Email: <a href="mailto:tucorreo@ejemplo.com">tucorreo@ejemplo.com</a></p>
-    <p>GitHub: <a href="https://github.com/TU_USUARIO" target="_blank">https://github.com/TU_USUARIO</a></p>
+    <ul>
+      <li>📧 <a href="mailto:keylis.alvarez@gmail.com">keylis.alvarez@gmail.com</a></li>
+      <li>💼 <a href="https://linkedin.com" target="_blank">LinkedIn</a></li>
+      <li>💻 <a href="https://github.com/hollowparker24-web" target="_blank">GitHub</a></li>
+    </ul>
   </section>
 
   <footer>
-    <p>© 2025 TU NOMBRE. Todos los derechos reservados.</p>
+    <p>© 2025 Keylis Alvarez | Todos los derechos reservados</p>
   </footer>
 </body>
 </html>
